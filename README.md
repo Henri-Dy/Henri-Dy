@@ -17,7 +17,7 @@ Remplace le lien ci-dessous par le tien (ou héberge-la dans le repo,
 ex: /assets/banner.png).
 -->
 <p align="center">
-  <img src="LIEN_VERS_TA_BANNIERE.png" alt="Bannière Henri-Michel Dossou-Yovo" width="100%">
+  <img src="https://chatgpt.com/s/m_6a89cf1a02948191b3295c24c5468da1" alt="Bannière Henri-Michel Dossou-Yovo" width="100%">
 </p>
 
 <h1 align="center">Henri-Michel Dossou-Yovo</h1>
@@ -49,7 +49,7 @@ dans la maquette de référence. Format carré, ~300x300 px.
 <table>
 <tr>
 <td width="220">
-  <img src="LIEN_VERS_TON_PORTRAIT.png" alt="Portrait Henri-Michel" width="200">
+  <img src="https://github.com/Henri-Dy/Henri-Dy/blob/main/_.jpeg?raw=true" alt="Portrait Henri-Michel" width="200">
 </td>
 <td>
 
@@ -122,7 +122,7 @@ maquette de référence) — sert juste de respiration visuelle.
 
 </td>
 <td width="180" align="center">
-  <img src="LIEN_VERS_ILLUSTRATION_ACCENT.png" alt="Illustration" width="140">
+  <img src="[LIEN_VERS_ILLUSTRATION_ACCENT.png](https://github.com/Henri-Dy/Henri-Dy/blob/main/_.jpeg?raw=true)" alt="Illustration" width="140">
 </td>
 </tr>
 </table>
