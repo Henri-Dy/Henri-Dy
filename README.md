@@ -6,19 +6,6 @@ Repo à créer : github.com/Henri-Dy/Henri-Dy (nom du repo = ton pseudo)
 ========================================================================
 -->
 
-<!--
-📍 IMAGE 1 — BANNIÈRE (haut de page, pleine largeur)
-Idée à véhiculer : univers tech / IA sombre et épuré — noir & blanc ou
-niveaux de gris, une silhouette / illustration liée au code ou à l'IA
-(réseau de neurones, terminal, data...). Doit donner une impression de
-rigueur technique et de calme, comme la bannière "Synax!" de référence.
-Format conseillé : 1200 x 300 px, fond sombre.
-Remplace le lien ci-dessous par le tien (ou héberge-la dans le repo,
-ex: /assets/banner.png).
--->
-<p align="center">
-  <img src="https://github.com/Henri-Dy/Henri-Dy/blob/main/ChatGPT%20Image%20Aug%2022,%202026,%2005_34_08%20PM.png?raw=true" alt="Bannière Henri-Michel Dossou-Yovo" width="100%">
-</p>
 
 <h1 align="center">Henri-Michel Dossou-Yovo</h1>
 <h3 align="center">Full Stack Developer & Data / AI</h3>
