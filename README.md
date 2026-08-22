@@ -44,10 +44,10 @@ Développeur Full Stack avec une expertise en **JavaScript, PHP et Python**, auj
 spécialisé en **Data & Intelligence Artificielle** — je conçois des agents IA sur mesure
 avec **LangChain** et **LangGraph**.
 
-Actuellement en Master IA et Data Science à l'ESGIS Bénin, après une Licence en
-Systèmes Informatiques et Logiciels (HECM Calavi, 2025). J'aime construire des outils
-qui transforment des données brutes en réponses utiles — dashboards, pipelines RAG,
-agents autonomes.
+Full-stack developer with expertise in **JavaScript, PHP, and Python**, now
+specializing in **Data & Artificial Intelligence** — I build custom AI agents
+using **LangChain** and **LangGraph**.
+
 
 🌍 Français & Anglais · 💼 Habitué au travail à distance (remote)
 
