@@ -17,7 +17,7 @@ Remplace le lien ci-dessous par le tien (ou héberge-la dans le repo,
 ex: /assets/banner.png).
 -->
 <p align="center">
-  <img src="[https://chatgpt.com/s/m_6a89cf1a02948191b3295c24c5468da1](https://github.com/Henri-Dy/Henri-Dy/blob/main/ChatGPT%20Image%20Aug%2022,%202026,%2005_34_08%20PM.png?raw=true)" alt="Bannière Henri-Michel Dossou-Yovo" width="100%">
+  <img src="https://github.com/Henri-Dy/Henri-Dy/blob/main/ChatGPT%20Image%20Aug%2022,%202026,%2005_34_08%20PM.png?raw=true" alt="Bannière Henri-Michel Dossou-Yovo" width="100%">
 </p>
 
 <h1 align="center">Henri-Michel Dossou-Yovo</h1>
@@ -122,7 +122,7 @@ maquette de référence) — sert juste de respiration visuelle.
 
 </td>
 <td width="180" align="center">
-  <img src="[LIEN_VERS_ILLUSTRATION_ACCENT.png](https://github.com/Henri-Dy/Henri-Dy/blob/main/_.jpeg?raw=true)" alt="Illustration" width="140">
+  <img src="https://github.com/Henri-Dy/Henri-Dy/blob/main/_.jpeg?raw=true" alt="Illustration" width="140">
 </td>
 </tr>
 </table>
