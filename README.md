@@ -159,10 +159,5 @@ maquette de référence) — sert juste de respiration visuelle.
 ## 📊 Contribution
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Henri-Dy&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henri-Dy&layout=compact&theme=dark&hide_border=true" alt="Top Langs" height="165">
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Henri-Dy&theme=dark&hide_border=true" alt="GitHub Streak">
 </p>
